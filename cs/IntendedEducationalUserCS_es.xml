@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri=" urn:tva:metadata:extended:cs:IntendedEducationalUserCS:2011">
+	<Term termID="1">
+		<Name xml:lang="es">Alumno</Name>
+		<Definition xml:lang="es">Es el aprendiz que trabaja directamente con el objeto educativo con el fin adquirir una serie de
+conocimientos, competencias generales y/o actitudes.</Definition>
+	</Term>
+	<Term termID="2">
+		<Name xml:lang="es">Alumno con necesidades educativas especiales</Name>
+		<Definition xml:lang="es">Es el alumno que requiere, por un periodo de su escolarización o a lo largo de toda ella, determinados apoyos y atenciones educativas específicas derivadas de discapacidad o trastornos graves de conducta.</Definition>
+	</Term>
+	<Term termID="3">
+		<Name xml:lang="es">Alumno con altas capacidades intelectuales</Name>
+		<Definition xml:lang="es">Es el alumno que requiere, por un periodo de su escolarización o a lo largo de toda ella, determinados apoyos y atenciones educativas adaptadas a su elevada capacidad intelectual.</Definition>
+	</Term>
+	<Term termID="4">
+		<Name xml:lang="es">Alumno con integración tardía en sistema educativo</Name>
+		<Definition xml:lang="es">Es el alumno que por cualquier motivo se ha incorporado de forma tardía al sistema educativo.</Definition>
+	</Term>
+	<Term termID="5">
+		<Name xml:lang="es">Alumno con otras necesidades específicas de apoyo educativo</Name>
+		<Definition xml:lang="es">Es el alumno que también requiere, por alguna razón no contemplada en los casos anteriores, determinados apoyos y atenciones educativas específicas. </Definition>
+	</Term>
+	<Term termID="6">
+		<Name xml:lang="es">Público en general</Name>
+		<Definition xml:lang="es">Cualquier persona que puede utilizar el recurso audiovisual educativo para su beneficio formativo y educacional (autoaprendizaje, diseño de materiales didácticos y de trabajo, etc.).</Definition>
+	</Term>
+	<Term termID="7">
+		<Name xml:lang="es">Docente</Name>
+		<Definition xml:lang="es">Quien enseña o instruye. Experto en didáctica de una materia concreta</Definition>
+	</Term>
+	<Term termID="8">
+		<Name xml:lang="es">Tutor</Name>
+		<Definition xml:lang="es">Es el dinamizador y co-responsable general del proceso de aprendizaje junto con el “docente”</Definition>
+	</Term>
+	<Term termID="9">
+		<Name xml:lang="es">Familia</Name>
+	</Term>
+</ClassificationScheme>

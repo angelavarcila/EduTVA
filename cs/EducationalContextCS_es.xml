@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:tva:metadata:edutva:cs:EducationalContextCS:2015">
+		<Term termID="1">
+		<Name xml:lang="es">Todos los contextos</Name>
+		</Term>
+		<Term termID="3.1">
+			<Name xml:lang="es">Primaria</Name>
+		</Term>
+		<Term termID="3.2">
+			<Name xml:lang="es">Secundaria (Bachillerato)</Name>
+		</Term>
+		<Term termID="3.3">
+			<Name xml:lang="es">Universitaria</Name>
+		</Term>
+		<Term termID="3.4">
+			<Name xml:lang="es">Posgrado / Aprendizaje permanente</Name>
+		</Term>
+</ClassificationScheme>

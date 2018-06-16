@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Description xsi:type="ClassificationSchemeDescriptionType"-->
+	<ClassificationScheme uri="urn:mpeg:mpeg7:cs:FileFormatCS:2001" domain="//MediaInformation/MediaProfile/MediaFormat/FileFormat">
+		<Term termID="1">
+			<Name xml:lang="es">jpeg</Name>
+			<Name xml:lang="es">jpg</Name>
+			<Name xml:lang="es">jfif</Name>
+			<Definition xml:lang="es">Archivo en formato JPEG</Definition>
+		</Term>
+		<Term termID="2">
+			<Name xml:lang="es">JPEG 2000</Name>
+			<Definition xml:lang="es">Archivo en formato JPEG</Definition>
+		</Term>
+		<Term termID="3">
+			<Name xml:lang="es">mpeg</Name>
+			<Name xml:lang="es">mpg</Name>
+			<Definition xml:lang="es">Archivo en formato MPEG</Definition>
+		</Term>
+		<Term termID="4">
+			<Name xml:lang="es">mp3</Name>
+			<Definition xml:lang="es">Archivo en formato MP3</Definition>
+		</Term>
+		<Term termID="5">
+			<Name xml:lang="es">mp4</Name>
+			<Definition xml:lang="es">Archivo en formato MPEG-4</Definition>
+		</Term>
+		<Term termID="6">
+			<Name xml:lang="es">dv</Name>
+			<Definition xml:lang="es">Video en formato Digital</Definition>
+		</Term>
+		<Term termID="7">
+			<Name xml:lang="es">avi</Name>
+			<Definition xml:lang="es">Formato entrelazado de video y audio</Definition>
+		</Term>
+		<Term termID="8">
+			<Name xml:lang="es">bdf</Name>
+			<Definition xml:lang="es">Formato de distribución bitmap</Definition>
+		</Term>
+		<Term termID="9">
+			<Name xml:lang="es">wav</Name>
+			<Definition xml:lang="es">Archivo de audio digital</Definition>
+		</Term>
+		<Term termID="10">
+			<Name xml:lang="es">zip</Name>
+			<Definition xml:lang="es">Archivo de formato binario comprimido</Definition>
+		</Term>
+		<Term termID="11">
+			<Name xml:lang="es">bmp</Name>
+			<Definition xml:lang="es">Formato Bitmap de Microsoft Windows</Definition>
+		</Term>
+		<Term termID="12">
+			<Name xml:lang="es">gif</Name>
+			<Definition xml:lang="es">Formato de intercambio de gráficos</Definition>
+		</Term>
+		<Term termID="13">
+			<Name xml:lang="es">photocd</Name>
+			<Definition xml:lang="es">Formato de imagen Kodak PhotoCD</Definition>
+		</Term>
+		<Term termID="14">
+			<Name xml:lang="es">ppm</Name>
+			<Definition xml:lang="es">Formato portable pixmap</Definition>
+		</Term>
+		<Term termID="15">
+			<Name xml:lang="es">png</Name>
+			<Definition xml:lang="es">Formato de gráficos de red portables</Definition>
+		</Term>
+		<Term termID="16">
+			<Name xml:lang="es">quicktime</Name>
+			<Definition xml:lang="es">QuickTime</Definition>
+		</Term>
+		<Term termID="17">
+			<Name xml:lang="es">spiff</Name>
+			<Definition xml:lang="es">Formato de intercambio de imagen fija</Definition>
+		</Term>
+		<Term termID="18">
+			<Name xml:lang="es">tiff</Name>
+			<Definition xml:lang="es">Formato de archivo de imágenes con etiquetas</Definition>
+		</Term>
+		<Term termID="19">
+			<Name xml:lang="es">asf</Name>
+			<Definition xml:lang="es">Formato avanzado de streaming</Definition>
+		</Term>
+		<Term termID="20">
+			<Name xml:lang="es">iff</Name>
+			<Definition xml:lang="es">Formato de archivos intercambiables</Definition>
+		</Term>
+		<Term termID="21">
+			<Name xml:lang="es">miff</Name>
+			<Definition xml:lang="es">Formato de archivo de máquina independiente</Definition>
+		</Term>
+		<Term termID="22">
+			<Name xml:lang="es">pcx</Name>
+			<Definition xml:lang="es">Formato de archivos de PC paintbrush</Definition>
+		</Term>
+		</ClassificationScheme>
+	<!--/Description>
+</Mpeg7-->

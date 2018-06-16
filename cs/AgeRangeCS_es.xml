@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:tva:metadata:edutva:cs:AgeRangeCS:2015">
+	<Term termID="1">
+		<Name xml:lang="es">Todas las edades</Name>
+		<Definition xml:lang="es">No hay un rango de edad objetivo.</Definition>
+	</Term>
+		<Term termID="2.1">
+			<Name xml:lang="es">Niños</Name>
+			<Term termID="2.1.1">
+				<Name xml:lang="es">de 0 a 3</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.1.2">
+				<Name xml:lang="es">de 4 a 7 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.1.3">
+				<Name xml:lang="es">de 8 a 13 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.1.4">
+				<Name xml:lang="es">de 14 a 15 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+		</Term>
+		<Term termID="2.2">
+			<Name xml:lang="es">Adultos</Name>
+			<Term termID="2.2.1">
+				<Name xml:lang="es">de 16 a 17 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.2.2">
+				<Name xml:lang="es">de 18 a 24 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.2.3">
+				<Name xml:lang="es">de 25 a 34 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.2.4">
+				<Name xml:lang="es">de 35 a 44 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.2.5">
+				<Name xml:lang="es">de 45 a 54 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.2.6">
+				<Name xml:lang="es">de 55 a 64 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+			<Term termID="2.2.7">
+				<Name xml:lang="es">mayor de 65 años</Name>
+				<Definition xml:lang="es"></Definition>
+			</Term>
+		</Term>
+		<Term termID="2.3">
+			<Name xml:lang="es">Adolescentes</Name>
+			<Definition xml:lang="es">Contenido dirigido los miembros de una audiencia de 13 a 19 años</Definition>
+		</Term>
+		<Term termID="2.4">
+			<Name xml:lang="es">Pre adolescentes</Name>
+			<Definition xml:lang="es">Contenido dirigido a los miembros de una audiencia de 12 años o menor</Definition>
+		</Term>
+</ClassificationScheme>

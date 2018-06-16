@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:tva:metadata:edutva:cs:AbilityCS:2014">
+	<Term termID="1">
+		<Name xml:lang="es">RECORDAR</Name>
+		<Definition xml:lang="es">Recuperar, rememorar o reconocer conocimiento que está en la memoria. Recordar se evidencia cuando se usa la memoria para producir definiciones, hechos o listados o, para citar o recuperar material.</Definition>
+		<Term termID="1.1">
+			<Name xml:lang="es">Reconocer</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="1.2">
+			<Name xml:lang="es">Listar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="1.3">
+			<Name xml:lang="es">Describir</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="1.4">
+			<Name xml:lang="es">Identificar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="1.5">
+			<Name xml:lang="es">Recuperar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="1.6">
+			<Name xml:lang="es">Denominar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="1.7">
+			<Name xml:lang="es">Localizar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="1.8">
+			<Name xml:lang="es">Encontrar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+	</Term>
+	<Term termID="2">
+		<Name xml:lang="es">COMPRENDER</Name>
+		<Definition xml:lang="es">Comprender es construír significado a partir de diferentes tipos de funciones, sean estas escritas o gráficas. La comprensión construye relaciones y une conocimientos. Los estudiantes entienden procesos y conceptos y pueden explicarlos o describirlos. Pueden resumirlos y refrasearlos en sus propias palabras</Definition>
+		<Term termID="2.1">
+			<Name xml:lang="es">Interpretar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="2.2">
+			<Name xml:lang="es">Resumir</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="2.3">
+			<Name xml:lang="es">Inferir</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="2.4">
+			<Name xml:lang="es">Parafrasear</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="2.5">
+			<Name xml:lang="es">Clasificar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="2.6">
+			<Name xml:lang="es">Comparar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="2.7">
+			<Name xml:lang="es">Explicar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="2.8">
+			<Name xml:lang="es">Ejemplificar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+	</Term>
+	<Term termID="3">
+		<Name xml:lang="es">APLICAR</Name>
+		<Definition xml:lang="es">Llevar a cabo o utilizar un procedimiento durante el desarrollo de una representación o de una implementación. Aplicar se relaciona y se refiere a situaciones donde el material ya estudiado se usa en el desarrollo de productos tales como modelos, presentaciones, entrevistas y simulaciones.</Definition>
+		<Term termID="3.1">
+			<Name xml:lang="es">Implementar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="3.2">
+			<Name xml:lang="es">Desempeñar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="3.3">
+			<Name xml:lang="es">Usar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="3.4">
+			<Name xml:lang="es">Ejecutar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+	</Term>
+	<Term termID="4">
+		<Name xml:lang="es">ANALIZAR</Name>
+		<Definition xml:lang="es">Descomponer en partes materiales o conceptuales y determinar cómo estas se relacionan o se interrelacionan entre sí, o con una estructura completa, o con un propósito determinado. Las acciones mentales de este proceso incluyen diferenciar, organizar y atribuir, así como la capacidad para establecer diferencias entre componentes</Definition>
+		<Term termID="4.1">
+			<Name xml:lang="es">Comparar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="4.2">
+			<Name xml:lang="es">Organizar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="4.3">
+			<Name xml:lang="es">Deconstruir</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="4.4">
+			<Name xml:lang="es">Atribuir</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="4.5">
+			<Name xml:lang="es">Delinear</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="4.6">
+			<Name xml:lang="es">Encontrar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="4.7">
+			<Name xml:lang="es">Estructurar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="4.8">
+			<Name xml:lang="es">Integrar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+	</Term>
+	<Term termID="5">
+		<Name xml:lang="es">EVALUAR</Name>
+		<Definition xml:lang="es">Hacer juicios con base en criterios y estándares utilizando la comprobación y la crítica</Definition>
+		<Term termID="5.1">
+			<Name xml:lang="es">Revisar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="5.2">
+			<Name xml:lang="es">Formular hipótesis</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="5.3">
+			<Name xml:lang="es">Criticar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="5.4">
+			<Name xml:lang="es">Experimentar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="5.5">
+			<Name xml:lang="es">Juzgar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="5.6">
+			<Name xml:lang="es">Probar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="5.7">
+			<Name xml:lang="es">Detectar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="5.8">
+			<Name xml:lang="es">Monitorear</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+	</Term>
+	<Term termID="6">
+		<Name xml:lang="es">CREAR</Name>
+		<Definition xml:lang="es">Juntar los elementos para formar un todo coherente y funcional; generar, planear o producir para reorganizar elementos en un nuevo patrón o estructura</Definition>
+		<Term termID="6.1">
+			<Name xml:lang="es">Diseñar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="6.2">
+			<Name xml:lang="es">Construir</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>
+		<Term termID="6.3">
+			<Name xml:lang="es">Planear</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="6.4">
+			<Name xml:lang="es">Producir</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="6.5">
+			<Name xml:lang="es">Idear</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="6.6">
+			<Name xml:lang="es">Trazar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+		<Term termID="6.7">
+			<Name xml:lang="es">Elaborar</Name>
+			<Definition xml:lang="es"></Definition>
+		</Term>	
+	</Term>
+</ClassificationScheme>
+

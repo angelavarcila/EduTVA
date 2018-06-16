@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri=" urn:tva:metadata:extended:cs:EducationalUseCS:2005">
+	<Term termID="1">
+		<Name xml:lang="es">Ejercicio</Name>
+	</Term>
+	<Term termID="2">
+		<Name xml:lang="es">Animación</Name>
+	</Term>
+	<Term termID="3">
+		<Name xml:lang="es">Examen</Name>
+	</Term>
+	<Term termID="4">
+		<Name xml:lang="es">Texto narrativo</Name>
+	</Term>
+	<Term termID="5">
+		<Name xml:lang="es">Experimento</Name>
+	</Term>
+	<Term termID="7">
+		<Name xml:lang="es">Autoevaluación</Name>
+	</Term>
+	<Term termID="8">
+		<Name xml:lang="es">Lección (clase, conferencia, explicación)</Name>
+	</Term>
+</ClassificationScheme>

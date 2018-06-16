@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:mpeg:mpeg7:cs:RoleCS:2011">
+	<!-- ##################################################################### -->
+	<!-- ROLE   -->
+	<!-- Definition: Key MPEG7 cast roles imported by TVAROLECS  -->
+	<!-- ##################################################################### -->
+	<Term termID="AUTHOR">
+		<Name xml:lang="es">Autor</Name>
+		<Definition xml:lang="es">Persona quien crea el contenido</Definition>
+	</Term>
+	<Term termID="ANCHOR">
+		<Name xml:lang="es">Presentador</Name>
+		<Name xml:lang="es">Presentadora</Name>
+		<Definition xml:lang="es">Un presentador de televisión quien coordina una emisión en la que varios corresponsales contribuyen </Definition>
+	</Term>
+	<Term termID="REPORTER">
+		<Name xml:lang="es">Reportero</Name>
+		<Name xml:lang="es">Reportera</Name>
+		<Definition xml:lang="es">Una persona que reune noticias y otro material periodístico y escribe o transmite en el trabajo del periodismo</Definition>
+	</Term>
+	<Term termID="INTERVIEWER">
+		<Name xml:lang="es">Entrevistador</Name>
+		<Definition xml:lang="es">Persona que conduce una entrevista</Definition>
+	</Term>
+	<Term termID="NARRATOR">
+		<Name xml:lang="es">Narrador</Name>
+		<Name xml:lang="es">Cuentero</Name>
+		<Definition xml:lang="es">Persona que cuenta una historia</Definition>
+	</Term>
+	<Term termID="ACTOR">
+		<Name xml:lang="es">Actor</Name>
+		<Name xml:lang="es">Actris</Name>
+		<Name xml:lang="es">Histrion</Name>
+		<Name xml:lang="es">Intérprete</Name>
+		<Definition xml:lang="es">Persona que interpreta el papel de un personaje</Definition>
+	</Term>
+	<Term termID="DANCER">
+		<Name xml:lang="es">Bailarín</Name>
+		<Definition xml:lang="es">Persona que baila</Definition>
+	</Term>
+	<Term termID="MUSICIAN">
+		<Name xml:lang="es">Músico</Name>
+		<Name xml:lang="es">Intrumentalista</Name>
+		<Name xml:lang="es">Intérprete</Name>
+		<Definition xml:lang="es">Alguien que toca un instrumento musical (como profesión)</Definition>
+	</Term>
+	<Term termID="SINGER">
+		<Name xml:lang="es">Cantante</Name>
+		<Name xml:lang="es">Vocalista</Name>
+		<Definition xml:lang="es">Persona que canta</Definition>
+	</Term>
+	<Term termID="PERFORMER">
+		<Name xml:lang="es">Artista</Name>
+		<Definition xml:lang="es">Persona que realiza una obra dramática o musical para el público. (Sin contar las clasificaciones anteriores)</Definition>
+	</Term>
+	<Term termID="EXECUTIVE-PRODUCER">
+		<Name xml:lang="es">Productor ejecutivo</Name>
+		<Definition xml:lang="es">Un productor que no está involucrado en los aspectos técnicos del proceso de decisiones, pero que sigue siendo responsable de la producción total. Normalmente un productor ejecutivo maneja temas legales y de negocios</Definition>
+	</Term>
+	<Term termID="PRODUCER">
+		<Name xml:lang="es">Productor</Name>
+		<Definition xml:lang="es">El que produce un evento, espectáculo y otro trabajo, por lo general a cargo de las finanzas, el personal, y otros aspectos no artísticos en el desarrollo de comerciales, obras de teatro, películas y otras obras</Definition>
+	</Term>
+	<Term termID="SCRIPTWRITER">
+		<Name xml:lang="es">Guionista</Name>
+		<Definition xml:lang="es">Una persona que escribe guiones para obras de teatro o películas o dramas de difusión</Definition>
+	</Term>
+	<Term termID="DIRECTOR">
+		<Name xml:lang="es">Director</Name>
+		<Definition xml:lang="es">Un supervisor; generalmente se refiere a la persona responsable de todos los componentes de la audiencia visible de un programa, película o espectáculo, mientras que el productor es responsable de los aspectos detrás de las escenas financieros y otros. Las responsabilidades de un director también podrían incluir la fundición, edición de guiones, selección de tiro y edición</Definition>
+	</Term>
+	<Term termID="ASSISTANT-DIRECTOR">
+		<Name xml:lang="es">Asistente de director</Name>
+		<Name xml:lang="es">AD</Name>
+		<Definition xml:lang="es">Las funciones del asistente de dirección incluyen el seguimiento del progreso de la filmación con respecto al calendario de producción, y la preparación de hojas de la llamada que es una lista de los actores que serán necesarios para las escenas, y cuando se requiera</Definition>
+	</Term>
+	<Term termID="PRODUCTION-ASSISTANT">
+		<Name xml:lang="es">Asistente de producción</Name>
+		<Name xml:lang="es">PA</Name>
+		<Definition xml:lang="es">Una persona que ayuda a un productor, director, asistente del director, u otras personas involucradas en la producción de cine o televisión</Definition>
+	</Term>
+	<Term termID="CONTINUITY-PERSON">
+		<Name xml:lang="es">Libretista</Name>
+		<Definition xml:lang="es">Persona que escribe un guión detallado utilizado para realizar una filmación con el fin de evitar discontinuidades de toma a toma</Definition>
+	</Term>
+	<Term termID="TIMEKEEPER">
+		<Name xml:lang="es">Cronometrista</Name>
+		<Name xml:lang="es">Colaborador de producción</Name>
+		<Definition xml:lang="es">Persona que realiza el seguieminto del tiempo transcurrido en un programa</Definition>
+	</Term>
+	<Term termID="MUSIC-SUPERVISOR">
+		<Name xml:lang="es">Supervisor de música</Name>
+		<Definition xml:lang="es">Persona que coordina el trabajo del compositor, editor y mezcladores de sonido</Definition>
+	</Term>
+	<Term termID="COMPOSER">
+		<Name xml:lang="es">Compositor</Name>
+		<Definition xml:lang="es">Músico cuya música aparece en la partitura del programa</Definition><!--Most movies have at least some original music written for the score, usually after the relevant parts of the movie have been filmed-->
+	</Term>
+	<Term termID="PRODUCTION-DESIGNER">
+		<Name xml:lang="es">Diseñador de producción</Name>
+		<Definition xml:lang="es">Artista responsable del diseño de la apariencia visual de un programa</Definition>
+	</Term>
+	<Term termID="ART-DIRECTOR">
+		<Name xml:lang="es">Director de arte</Name>
+		<Definition xml:lang="es">Persona que supervisa a los artistas que construyen los sets de grabación</Definition>
+	</Term>
+	<Term termID="SET-DESIGNER">
+		<Name xml:lang="es">Diseñador de set</Name>
+		<Definition xml:lang="es">Persona responsable del diseño de los sets.</Definition>
+	</Term>
+	<Term termID="SET-MAKER">
+		<Name xml:lang="es">Fabricante de set</Name>
+		<Definition xml:lang="es">Persona que construye el set con las especificaciones realizadas por el diseñador de set</Definition>
+	</Term>
+	<Term termID="PROPERTY-MASTER">
+		<Name xml:lang="es">Encargado de la utilería</Name>
+		<Definition xml:lang="es">Persona responsable de la compra y adquisición de cualquier accesorio necesario para la producción</Definition>
+	</Term>
+	<Term termID="PROPERTY-ASSISTANT">
+		<Name xml:lang="es">Asistente de utilería</Name>
+		<Definition xml:lang="es">Responsabe de la ubicación y mantenimiento de los accesorios de un set</Definition>
+	</Term>
+	<Term termID="SOUND-EFFECTS-PERSON">
+		<Name xml:lang="es">Encargado de efectos de sonido</Name>
+		<Name xml:lang="es">Sonidista</Name>
+		<Definition xml:lang="es">Persona encargada de los efectos de sonido u otros sonidos diferentes a la música y voces humanas, generalmente llamado sonidista</Definition>
+	</Term>
+	<Term termID="SFX-SUPERVISOR">
+		<Name xml:lang="es">Supervisor/Coordinador de efectos especiales</Name>
+		<Definition xml:lang="es">Jefe del equipo encargado de los efectos especiales de la producción</Definition>
+	</Term>
+	<Term termID="SFX-ASSISTANT">
+		<Name xml:lang="es">Asistente/Técnico de efectos especiales</Name>
+		<Definition xml:lang="es">Persona que realiza un efecto artificial utilizado para crear una ilusión en un programa</Definition>
+	</Term>
+	<Term termID="ANIMATOR">
+		<Name xml:lang="es">Animador</Name>
+		<Definition xml:lang="es">Artista que produce los dibujos animados, o la persona encargada de la producción de animación</Definition>
+	</Term>
+	<Term termID="CG-ARTIST">
+		<Name xml:lang="es">Artista de gŕaficos en computador</Name>
+		<Name xml:lang="es">CG</Name>
+		<Definition xml:lang="es">Artista que produce los gráficos de computador</Definition>
+	</Term>
+	<Term termID="MAKEUP-SUPERVISOR">
+		<Name xml:lang="es">Supervisor de maquillaje</Name>
+		<Definition xml:lang="es">Decoraciones en la piel o cabello de un actor para generar un efecto cosmético o artístico</Definition>
+	</Term>
+	<Term termID="MAKEUP-ARTIST">
+		<Name xml:lang="es">Artista</Name>
+		<Definition xml:lang="es">Decoraciones en la piel o cabello de un actor para generar un efecto cosmético o artístico.</Definition>
+	</Term>
+	<Term termID="COSTUME-SUPERVISOR">
+		<Name xml:lang="es">Supervisor de vestuario</Name>
+		<Definition xml:lang="es">Persona responsable del manejo de los trajes usados por los actores</Definition>
+	</Term>
+	<Term termID="COSTUMER">
+		<Name xml:lang="es">Vestuario</Name>
+		<!--Name xml:lang="es">Wardrobe</Name>
+		<Name xml:lang="es">Assistant Wardrobe</Name>
+		<Name xml:lang="es">Wardrobe Assistant</Name-->
+		<Definition xml:lang="es">Persona que se encarga de los trajes usados por los actores</Definition>
+	</Term>
+	<Term termID="TECHNICAL-DIRECTOR">
+		<Name xml:lang="es">Director técnico</Name>
+		<Name xml:lang="es">TD</Name>
+		<Definition xml:lang="es">Director de los aspectos técnicos de una producción</Definition>
+	</Term>
+	<Term termID="SWITCHER">
+		<Name xml:lang="es">Conmutación (Switcher)</Name>
+		<Definition xml:lang="es">Persona (ingeniero de sonido) responsable de la mezcla o cambio de cámara. Conmutación se refiere al proceso de selección entre las diferentes fuentes de audio y videos de una producción responsible for camera mixing or switching</Definition>
+	</Term>
+	<Term termID="CAMERA-OPERATOR">
+		<Name xml:lang="es">Operador de cámara</Name>
+		<Name xml:lang="es">Camarógrafo</Name>
+		<Definition xml:lang="es">Persona que opera la cámara de acuerdo a las especificaciones del director</Definition>
+	</Term>
+	<Term termID="CAMERA-ASSISTANT">
+		<Name xml:lang="es">Asistente de cámara</Name>
+		<Definition xml:lang="es">Miembro del equipo de filmación que asiste al operador de cámara</Definition>
+	</Term>
+	<Term termID="LIGHTING-SUPERVISOR">
+		<Name xml:lang="es">Supervisor de iluminación</Name>
+		<Definition xml:lang="es">Jefe del equipo de iluminación</Definition>
+	</Term>
+	<Term termID="LIGHTING-OPERATOR">
+		<Name xml:lang="es">Operador/técnico de iluminación</Name>
+		<Definition xml:lang="es">Técnico que instala, opera y realiza el mantenimiento de la iluminación</Definition>
+	</Term>
+	<Term termID="SOUND-SUPERVISOR">
+		<Name xml:lang="es">Supervisor de sonido/grabación</Name>
+		<Definition xml:lang="es">Persona responsable por la calidad técnica del sonido de un programa</Definition>
+	</Term>
+	<Term termID="SOUND-ENGINEER">
+		<Name xml:lang="es">Ingeniero de sonido</Name>
+		<Name xml:lang="es">Operador de sonido</Name>
+		<Definition xml:lang="es">Persona que opera los dispositivos de grabación de sonido</Definition>
+	</Term>
+	<Term termID="VISUAL-EFFECTS-SUPERVISOR">
+		<Name xml:lang="es">Supervisor de efectos visuales</Name>
+		<Name xml:lang="es">Supervisor de video</Name>
+		<Definition xml:lang="es">Jefe del equipo de efectos visuales de una producción</Definition>
+	</Term>
+	<Term termID="VIDEO-ENGINEER">
+		<Name xml:lang="es">Ingeniero de video</Name>
+		<Name xml:lang="es">Operador de video</Name>
+		<Definition xml:lang="es">Ingeniero que opera los monitores y unidades de control de cámara para cambiar de una cámara a otra y mantener el color, contraste y otras cualidades visuales</Definition>
+	</Term>
+	<Term termID="TRANSPORTATION-CAPTAIN">
+		<Name xml:lang="es">Jefe de transporte</Name>
+		<Definition xml:lang="es">Persona que maneja vehículos de equipos o pasajeros, entre diferentes lugares hasta el estudio</Definition>
+	</Term>
+	<Term termID="STAFF">
+		<Name xml:lang="es">Staff</Name>
+		<!--Name xml:lang="es">Production Staff</Name-->
+		<Definition xml:lang="es">Personal que lleva a cabo una tarea que le asigna la producción. (Tareas diferentes a las anteriores)</Definition>
+	</Term>
+	<Term termID="DISSEMINATOR">
+		<Name xml:lang="es">Difusor</Name>
+		<Definition xml:lang="es">Persona u organización que pone a disposición de otros la creación</Definition>
+	</Term>
+	<Term termID="PUBLISHER">
+		<Name xml:lang="es">Editor</Name>
+		<Definition>Persona u organización que prepara el material para su distribución o venta</Definition>
+	</Term>
+	<Term termID="DISTRIBUTOR">
+		<Name xml:lang="es">Distribuidor</Name>
+		<Definition>Persona u organización que comercializa la mercancía</Definition>
+	</Term>
+	<Term termID="SYNDICATOR">
+		<Name xml:lang="es">Sindicador</Name>
+		<Definition>Una persona u organización que vende el material para su publicación simultánea en diferentes lugares</Definition>
+	</Term>
+	<Term termID="AGGREGATOR">
+		<Name xml:lang="es">Agregador</Name>
+		<Definition>Persona u organización que reúne varios materiales</Definition>
+	</Term>
+	<Term termID="BROADCASTER">
+		<Name xml:lang="es">Transmisor</Name>
+		<Definition>Persona u organización que envía el material por radio o televisión</Definition>
+	</Term>
+	<Term termID="WEBCASTER">
+		<Name xml:lang="es">Transmisor por internet (Webcaster)</Name>
+		<Definition>Persona u organización que envía el material por Internet a travpes de audio y/o video</Definition>
+	</Term>
+	<Term termID="UNKNOWN">
+		<Name xml:lang="es">Desconocido</Name>
+		<Definition>Persona u organización que está involucrada en la creación pero su rol es desconocido</Definition>
+	</Term>
+</ClassificationScheme>
+

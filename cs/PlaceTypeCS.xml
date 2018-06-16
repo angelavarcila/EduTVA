@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:tva:metadata:extended:cs:PlaceTypeCS:2011">
+	<Term termID="1">
+		<Name xml:lang="es">Hogar</Name>
+		<Definition xml:lang="es">
+			Lugar donde una persona vive o un lugar para volver
+		</Definition>
+	</Term>
+	<Term termID="2">
+		<Name xml:lang="es">Instalaciones de transporte</Name>
+		<Definition xml:lang="es">
+			Un lugar donde la gente accede a los medios de transporte
+		</Definition>
+		<Term termID="2.1">
+			<Name xml:lang="es">Estacion</Name>
+		</Term>
+		<Term termID="2.2">
+			<Name xml:lang="es">Parada</Name>
+		</Term>
+		<Term termID="2.3">
+			<Name xml:lang="es">Aeropuerto</Name>
+		</Term>
+		<Term termID="2.4">
+			<Name xml:lang="es">Puerto</Name>
+		</Term>
+	</Term>
+	<Term termID="3">
+		<Name xml:lang="es">Instalaciones de tráfico</Name>
+		<!--Definition xml:lang="es">
+			A place where people access by using traffic means
+		</Definition-->
+		<Term termID="3.1">
+			<Name xml:lang="es">Entrada</Name>
+		</Term>
+		<Term termID="3.2">
+			<Name xml:lang="es">Parqueadero</Name>
+		</Term>
+		<Term termID="3.3">
+			<Name xml:lang="es">Cruce</Name>
+		</Term>
+		<Term termID="3.4">
+			<Name xml:lang="es">Calle</Name>
+		</Term>
+		<Term termID="3.5">
+			<Name xml:lang="es">Estación de gas</Name>
+		</Term>
+		<Term termID="3.6">
+			<Name xml:lang="es">Carretera</Name>
+		</Term>
+		<Term termID="3.7">
+			<Name xml:lang="es">Intercambio</Name>
+		</Term>
+		<Term termID="3.8">
+			<Name xml:lang="es">Área de servicio</Name>
+		</Term>
+	</Term>
+	<Term termID="4">
+		<Name xml:lang="es">Lugares de trabajo</Name>
+		<Definition xml:lang="es">
+			Lugar donde la gente trabaja
+		</Definition>
+		<Term termID="4.1">
+			<Name xml:lang="es">Ofinica</Name>
+		</Term>
+		<Term termID="4.2">
+			<Name xml:lang="es">Fábrica</Name>
+		</Term>
+		<Term termID="4.3">
+			<Name xml:lang="es">Estudio</Name>
+		</Term>
+		<Term termID="4.4">
+			<Name xml:lang="es">Al aire libre</Name>
+		</Term>
+	</Term>
+	<Term termID="5">
+		<Name xml:lang="es">Escuela</Name>
+		<Definition xml:lang="es">
+			Lugar donde la gente va a estudiar
+		</Definition>
+		<Term termID="5.1">
+			<Name xml:lang="es">Universidad</Name>
+		</Term>
+		<Term termID="5.2">
+			<Name xml:lang="es">Secundaria</Name>
+		</Term>
+		<Term termID="5.3">
+			<Name xml:lang="es">Jardín Infantil</Name>
+		</Term>
+	</Term>
+	<Term termID="6">
+		<Name xml:lang="es">Sala</Name>
+		<Definition xml:lang="es">
+			Lugar o edificio usado para reuniones, entretenimiento, exposiciones, etc.
+		</Definition>
+		<Term termID="6.1">
+			<Name xml:lang="es">Museo</Name>
+		</Term>
+		<Term termID="6.2">
+			<Name xml:lang="es">Librería</Name>
+		</Term>
+		<Term termID="6.3">
+			<Name xml:lang="es">Teatro</Name>
+		</Term>
+	</Term>
+	<Term termID="7">
+		<Name xml:lang="es">Instalaciones Públicas</Name>
+		<Definition xml:lang="es">
+			Lugar o edificio para servicios públicos
+		</Definition>
+		<Term termID="7.1">
+			<Name xml:lang="es">Banco</Name>
+		</Term>
+		<Term termID="7.2">
+			<Name xml:lang="es">Oficina Postal</Name>
+		</Term>
+		<Term termID="7.3">
+			<Name xml:lang="es">Hospital</Name>
+		</Term>
+		<Term termID="7.4">
+			<Name xml:lang="es">Policía</Name>
+		</Term>
+		<Term termID="7.5">
+			<Name xml:lang="es">Oficina pública</Name>
+		</Term>
+		<Term termID="7.6">
+			<Name xml:lang="es">Estación de brigada de bomberos</Name>
+		</Term>
+	</Term>
+	<Term termID="8">
+		<Name xml:lang="es">Sitio histórico</Name>
+		<Definition xml:lang="es">
+			Lugar o ediicio de valor o interés histórico
+		</Definition>
+		<Term termID="8.1">
+			<Name xml:lang="es">Palacio</Name>
+		</Term>
+		<Term termID="8.2">
+			<Name xml:lang="es">Castillo</Name>
+		</Term>
+		<Term termID="8.3">
+			<Name xml:lang="es">Iglesia</Name>
+		</Term>
+		<Term termID="8.4">
+			<Name xml:lang="es">Templo</Name>
+		</Term>
+		<Term termID="8.5">
+			<Name xml:lang="es">Santuario</Name>
+		</Term>
+		<Term termID="8.6">
+			<Name xml:lang="es">Cementerio</Name>
+		</Term>
+	</Term>
+	<Term termID="9">
+		<Name xml:lang="es">Lugar natural al aire libre</Name>
+		<Definition xml:lang="es">
+			Lugar de ambiente natural o al aire libre
+		</Definition>
+		<Term termID="9.1">
+			<Name xml:lang="es">Montaña</Name>
+		</Term>
+		<Term termID="9.2">
+			<Name xml:lang="es">Mar</Name>
+		</Term>
+		<Term termID="9.3">
+			<Name xml:lang="es">Lago</Name>
+		</Term>
+		<Term termID="9.4">
+			<Name xml:lang="es">Estanque</Name>
+		</Term>
+		<Term termID="9.5">
+			<Name xml:lang="es">Río</Name>
+		</Term>
+		<Term termID="9.6">
+			<Name xml:lang="es">Valle</Name>
+		</Term>
+		<Term termID="9.7">
+			<Name xml:lang="es">Campo</Name>
+		</Term>
+		<Term termID="9.8">
+			<Name xml:lang="es">Isla</Name>
+		</Term>
+		<Term termID="9.9">
+			<Name xml:lang="es">Cielo</Name>
+		</Term>
+	</Term>
+	<Term termID="10">
+		<Name xml:lang="es">Hotel</Name>
+		<Definition xml:lang="es">
+			Edificio o luhar donde la gente se aloja, duerme o toma un descanso
+		</Definition>
+	</Term>
+	<Term termID="11">
+		<Name xml:lang="es">Restaurante</Name>
+		<Definition xml:lang="es">
+			Edificio o luhar donde se sirve comida y la gente puede comer
+		</Definition>
+	</Term>
+	<Term termID="12">
+		<Name xml:lang="es">Lugar de compras</Name>
+		<Definition xml:lang="es">
+			Edificio o luhar donde la gente va a comprar
+		</Definition>
+		<Term termID="12.1">
+			<Name xml:lang="es">Grandes almacenes</Name>
+		</Term>
+		<Term termID="12.2">
+			<Name xml:lang="es">Supermercado</Name>
+		</Term>
+		<Term termID="12.3">
+			<Name xml:lang="es">Tienda</Name>
+		</Term>
+	</Term>
+	<Term termID="13">
+		<Name xml:lang="es">Lugar de ocio</Name>
+		<Definition xml:lang="es">
+			Lugar donde la gente disfruta del descanso
+		</Definition>
+		<Term termID="13.1">
+			<Name xml:lang="es">Parque</Name>
+		</Term>
+		<Term termID="13.2">
+			<Name xml:lang="es">Jardín</Name>
+		</Term>
+		<Term termID="13.3">
+			<Name xml:lang="es">Parque de atracciones</Name>
+		</Term>
+		<Term termID="13.4">
+			<Name xml:lang="es">Resort</Name>
+		</Term>
+		<Term termID="13.5">
+			<Name xml:lang="es">Termales</Name>
+		</Term>
+	</Term>
+	<Term termID="14">
+		<Name xml:lang="es">Lugar de deportes</Name>
+		<Definition xml:lang="es">
+			Lugar donde la gente disfruta del deporte
+		</Definition>
+		<Term termID="14.1">
+			<Name xml:lang="es">Estadio</Name>
+		</Term>
+		<Term termID="14.2">
+			<Name xml:lang="es">Gimnasio</Name>
+		</Term>
+		<Term termID="14.3">
+			<Name xml:lang="es">Pista de tenis</Name>
+		</Term>
+		<Term termID="14.4">
+			<Name xml:lang="es">Campo de golf</Name>
+		</Term>
+		<Term termID="14.5">
+			<Name xml:lang="es">Piscina</Name>
+		</Term>
+		<Term termID="14.6">
+			<Name xml:lang="es">Campo de esquí</Name>
+		</Term>
+		<Term termID="14.7">
+			<Name xml:lang="es">Pista de patinaje</Name>
+		</Term>
+	</Term>
+	<Term termID="15">
+		<Name xml:lang="es">Movilidad</Name>
+		<Definition xml:lang="es">
+			El usuario está en movimiento.
+		</Definition>
+		<Term termID="15.1">
+			<Name xml:lang="es">En trasnporte</Name>
+			<Term termID="15.1.1">
+				<Name xml:lang="es">En carro</Name>
+			</Term>
+			<Term termID="15.1.2">
+				<Name xml:lang="es">En tren</Name>
+			</Term>
+			<Term termID="15.1.3">
+				<Name xml:lang="es">En avión</Name>
+			</Term>
+		</Term>
+		<Term termID="15.2">
+			<Name xml:lang="es">A pie</Name>
+			<Term termID="15.2.1">
+				<Name xml:lang="es">Caminando</Name>
+			</Term>
+			<Term termID="15.2.2">
+				<Name xml:lang="es">Corriendo</Name>
+			</Term>
+		</Term>
+	</Term>
+</ClassificationScheme>

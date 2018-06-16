@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri=" urn:tva:metadata:edutva:cs:InteractivityCS:2014">
+	<Term termID="1">
+		<Name xml:lang="es">Activa</Name>
+		<Definition xml:lang="es">El aprendizaje se produce cuando el televidente participa activamente con el recurso, estimulando su pensamiento crítico y aprendizaje autónomo, es decir, reflexiona acerca del contenido y realiza actividades durante o después de visualizarlo</Definition>
+	</Term>
+	<Term termID="2">
+		<Name xml:lang="es">Expositiva</Name>
+		<Definition xml:lang="es">El conocimiento se transmite y expone a medida que avanza el contenido</Definition>
+	</Term>
+	<Term termID="3">
+		<Name xml:lang="es">Mixta</Name>
+		<Definition xml:lang="es">Activa y expositiva</Definition>
+	</Term>
+</ClassificationScheme>
